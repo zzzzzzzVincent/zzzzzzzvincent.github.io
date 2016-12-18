@@ -1,14 +1,4 @@
 <html>
-<head>
-<style type="text/css">
-body {background-image:url(/i/eg_bg_04.gif);}
-[title]
-{
-color:red;
-}
-
-</style>
-</head>
 
 <body>
 <h1>如何做视频</h1>
