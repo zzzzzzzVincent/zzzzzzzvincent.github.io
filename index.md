@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<style type="text/css">
+body {background-image:url(/i/eg_bg_04.gif);}
+[title]
+{
+color:red;
+}
 
-You can use the [editor on GitHub](https://github.com/zzzzzzzVincent/zzzzzzzvincent.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+</style>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+<h1>如何做视频</h1>
+<h2 title="步骤：">步骤：</h2>
+<ul>
+<li><a href="#准备">准备</a></li>
+<li><a href="#利用AE制作短视频">利用AE制作短视频</a></li>
+<li><a href="#利用PR进行剪辑">利用PR进行剪辑</a></li>
+</ul>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<hr />
 
-```markdown
-Syntax highlighted code block
+<h1>一、准备制作工具</h1>
+<h2>1.安装Adobe After Effects和Adobe Premiere Pro；</h2>
+<h2>2.相关素材准备：</h2>
+<p>登录New CGer网站下载所需模板，并准备图片素材以及BGM素材;</p>
+<h1>二、制作短视频</h1>
+<h2> 打开已下载的图片演绎模板</h2>
+<p>按照操作说明进行操作</p>
 
-# Header 1
-## Header 2
-### Header 3
+<p>等待视频渲染，并利用格式工厂将视频格式进行转化，转化为MOV或者MP4</p>
+<h1>三、利用PR进行剪辑</h1>
+<h2> 3.1 导入需要操作的视频</h2>
+<p>将用格式工厂转换好的视频导入PR中备用</p>
+<h2> 3.2 准备视频所需的BGM</h2>
+<p>在网易云音乐中选择目标歌单，将合适的音乐下载到本地目录并导入进PR中备用</p>
 
-- Bulleted
-- List
+<p>等待成功提示，如果有格式错误提示，请报告</p>
+<h2>3.3 进行视频剪辑</h2>
+<h3>3.3.1 选取目标视频：</h3>
+<p>双击目标视频，在操作框中选择视频起始处与终点处，并将目标区域拖到时间轴处，重复操作将所有目标视频一一截取</p>
 
-1. Numbered
-2. List
+<h3>3.3.2 编辑视频过渡效果</h3>
+<p>选择效果控件一栏，打开视频过渡，选择自己喜欢的视频过渡效果进而改为自己想要的效果</p>
+<h3>3.3.3 在预览窗口查看效果</h3>
+<p>拖动时间轴将会在右侧的预览窗口中显示剪辑的视频效果</p>
+<h3>3.3.4 对视频片段的修改</h3>
+<p>若出现视频屏幕大小不匹配的情况，在时间轴上双击目标视频片段，在屏幕左上角选择效果控件，选择运动项，并手动调节视频大小，并可在右侧预览窗口中观看效果</p>
+<h3>3.3.5 继续重复3.3.2-3.3.4的步骤，不断修改视频，最终达到自己想要达到的效果</h3>
+<h3>3.3.6 添加背景音乐并导出目标视频</h3>
+<p>类似于视频截取，将想要的音频截取后拖入到音频轨道，视频制作完成后点击左上角文件，导出，格式选择H.264进行导出</p>
+<h3>至此，一个初始的简单视频就制作好了，接下去的工作就是将自己的视频给其他同学看，聆听同学们的意见，提高自己做视频的水平。</h3>
+</p>
 
-**Bold** and _Italic_ and `Code` text
+</body>
+</html>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zzzzzzzVincent/zzzzzzzvincent.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
